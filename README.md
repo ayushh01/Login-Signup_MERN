@@ -1,6 +1,7 @@
 # Login-Signup_MERN
 Authentication using Bearer Token.
-To run this clone it then open two terminal 
+
+To run this clone it then open two terminal
 from 1st Terminal move to backend folder
 use:-
 #        npm start
